@@ -1,4 +1,4 @@
-# leo-handoff-security-agent
+# LEO Handoff Security Agent
 
 An agentic security research pipeline for ECE-202C that analyses LEO (Low
 Earth Orbit) satellite handoff behaviour as a network security surface. The
@@ -63,5 +63,4 @@ data/              input measurements (empirical or synthetic)
 reports/           structured JSON and Markdown outputs
 docs/              agent design documentation
 logs/              interaction log and session summary
-phase*.md          original prompts used to build each phase
 ```
