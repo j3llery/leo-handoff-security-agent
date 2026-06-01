@@ -1,0 +1,214 @@
+{
+  "source": "synthetic",
+  "n_samples": 6000,
+  "duration_s": 599.9,
+  "n_handoffs": 40,
+  "interval_stats": {
+    "mean_s": 14.738,
+    "std_s": 2.163,
+    "min_s": 8.5,
+    "max_s": 18.4
+  },
+  "handoff_events": [
+    {
+      "timestamp_s": 14.7,
+      "spike_magnitude_ms": 91.04,
+      "peak_rtt_ms": 120.4
+    },
+    {
+      "timestamp_s": 29.3,
+      "spike_magnitude_ms": 58.41,
+      "peak_rtt_ms": 86.9
+    },
+    {
+      "timestamp_s": 44.0,
+      "spike_magnitude_ms": 100.42,
+      "peak_rtt_ms": 128.64
+    },
+    {
+      "timestamp_s": 60.7,
+      "spike_magnitude_ms": 79.68,
+      "peak_rtt_ms": 108.37
+    },
+    {
+      "timestamp_s": 75.4,
+      "spike_magnitude_ms": 136.38,
+      "peak_rtt_ms": 164.4
+    },
+    {
+      "timestamp_s": 86.7,
+      "spike_magnitude_ms": 96.02,
+      "peak_rtt_ms": 122.78
+    },
+    {
+      "timestamp_s": 102.5,
+      "spike_magnitude_ms": 91.84,
+      "peak_rtt_ms": 118.86
+    },
+    {
+      "timestamp_s": 116.8,
+      "spike_magnitude_ms": 168.18,
+      "peak_rtt_ms": 196.81
+    },
+    {
+      "timestamp_s": 131.3,
+      "spike_magnitude_ms": 51.17,
+      "peak_rtt_ms": 79.73
+    },
+    {
+      "timestamp_s": 146.6,
+      "spike_magnitude_ms": 116.97,
+      "peak_rtt_ms": 145.29
+    },
+    {
+      "timestamp_s": 162.2,
+      "spike_magnitude_ms": 80.17,
+      "peak_rtt_ms": 107.52
+    },
+    {
+      "timestamp_s": 180.1,
+      "spike_magnitude_ms": 85.73,
+      "peak_rtt_ms": 113.76
+    },
+    {
+      "timestamp_s": 196.8,
+      "spike_magnitude_ms": 88.95,
+      "peak_rtt_ms": 116.67
+    },
+    {
+      "timestamp_s": 212.0,
+      "spike_magnitude_ms": 158.27,
+      "peak_rtt_ms": 186.61
+    },
+    {
+      "timestamp_s": 225.1,
+      "spike_magnitude_ms": 125.17,
+      "peak_rtt_ms": 153.3
+    },
+    {
+      "timestamp_s": 237.6,
+      "spike_magnitude_ms": 161.22,
+      "peak_rtt_ms": 190.19
+    },
+    {
+      "timestamp_s": 253.2,
+      "spike_magnitude_ms": 69.9,
+      "peak_rtt_ms": 97.76
+    },
+    {
+      "timestamp_s": 271.6,
+      "spike_magnitude_ms": 49.86,
+      "peak_rtt_ms": 78.41
+    },
+    {
+      "timestamp_s": 286.6,
+      "spike_magnitude_ms": 69.02,
+      "peak_rtt_ms": 97.69
+    },
+    {
+      "timestamp_s": 301.3,
+      "spike_magnitude_ms": 161.67,
+      "peak_rtt_ms": 191.17
+    },
+    {
+      "timestamp_s": 317.7,
+      "spike_magnitude_ms": 135.04,
+      "peak_rtt_ms": 163.2
+    },
+    {
+      "timestamp_s": 329.1,
+      "spike_magnitude_ms": 86.54,
+      "peak_rtt_ms": 115.18
+    },
+    {
+      "timestamp_s": 343.3,
+      "spike_magnitude_ms": 73.12,
+      "peak_rtt_ms": 100.87
+    },
+    {
+      "timestamp_s": 359.5,
+      "spike_magnitude_ms": 108.82,
+      "peak_rtt_ms": 137.18
+    },
+    {
+      "timestamp_s": 376.7,
+      "spike_magnitude_ms": 77.06,
+      "peak_rtt_ms": 104.74
+    },
+    {
+      "timestamp_s": 391.1,
+      "spike_magnitude_ms": 115.07,
+      "peak_rtt_ms": 142.62
+    },
+    {
+      "timestamp_s": 407.0,
+      "spike_magnitude_ms": 140.5,
+      "peak_rtt_ms": 168.69
+    },
+    {
+      "timestamp_s": 422.6,
+      "spike_magnitude_ms": 89.48,
+      "peak_rtt_ms": 117.24
+    },
+    {
+      "timestamp_s": 439.6,
+      "spike_magnitude_ms": 142.82,
+      "peak_rtt_ms": 170.66
+    },
+    {
+      "timestamp_s": 451.8,
+      "spike_magnitude_ms": 50.57,
+      "peak_rtt_ms": 78.21
+    },
+    {
+      "timestamp_s": 468.2,
+      "spike_magnitude_ms": 124.5,
+      "peak_rtt_ms": 152.99
+    },
+    {
+      "timestamp_s": 479.4,
+      "spike_magnitude_ms": 163.5,
+      "peak_rtt_ms": 190.95
+    },
+    {
+      "timestamp_s": 487.9,
+      "spike_magnitude_ms": 75.14,
+      "peak_rtt_ms": 102.99
+    },
+    {
+      "timestamp_s": 501.4,
+      "spike_magnitude_ms": 101.0,
+      "peak_rtt_ms": 128.17
+    },
+    {
+      "timestamp_s": 514.1,
+      "spike_magnitude_ms": 140.96,
+      "peak_rtt_ms": 168.43
+    },
+    {
+      "timestamp_s": 531.3,
+      "spike_magnitude_ms": 99.47,
+      "peak_rtt_ms": 127.72
+    },
+    {
+      "timestamp_s": 547.9,
+      "spike_magnitude_ms": 122.9,
+      "peak_rtt_ms": 151.52
+    },
+    {
+      "timestamp_s": 559.9,
+      "spike_magnitude_ms": 71.76,
+      "peak_rtt_ms": 100.19
+    },
+    {
+      "timestamp_s": 577.0,
+      "spike_magnitude_ms": 102.53,
+      "peak_rtt_ms": 131.82
+    },
+    {
+      "timestamp_s": 589.5,
+      "spike_magnitude_ms": 69.38,
+      "peak_rtt_ms": 98.37
+    }
+  ]
+}

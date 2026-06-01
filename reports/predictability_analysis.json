@@ -1,0 +1,36 @@
+{
+  "interval_analysis": {
+    "mean_s": 14.738,
+    "std_s": 2.163,
+    "min_s": 8.5,
+    "max_s": 18.4,
+    "cv": 0.1467,
+    "n_intervals": 39,
+    "predictability": "highly predictable"
+  },
+  "distribution_model": {
+    "model": "periodic_with_jitter",
+    "explanation": "CV=0.147 is well below 1.0, inconsistent with a Poisson/exponential process (which requires CV\u22481). The distribution resembles a periodic clock with small Gaussian jitter \u2014 consistent with scheduled satellite beam-switching."
+  },
+  "fft_periodicity": {
+    "dominant_period_s": 5.77,
+    "dominant_freq_hz": 0.17333,
+    "band_power_fraction": 0.0043,
+    "interpretation": "Strongest spectral peak at 5.77s period, carrying 0.4% of total signal power \u2014 weak periodicity signal."
+  },
+  "disruption_window": {
+    "mean_disruption_window_s": 0.323,
+    "std_disruption_window_s": 0.053,
+    "min_disruption_window_s": 0.2,
+    "max_disruption_window_s": 0.4,
+    "global_baseline_rtt_ms": 25.51,
+    "n_measured": 40
+  },
+  "attack_probability": {
+    "p_hit_per_prediction": 0.0595,
+    "exploitable_fraction_of_cycle": 0.0219,
+    "handoffs_per_hour": 244.3,
+    "expected_hits_per_hour": 14.5,
+    "interpretation": "An attacker predicting handoff timing with \u00b12.16s uncertainty has a 6.0% chance of launching within the 0.32s disruption window. Over one hour (~244 handoffs) this yields ~15 successful attack windows."
+  }
+}
